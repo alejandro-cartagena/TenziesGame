@@ -8,6 +8,12 @@ their dice are the same number.
 
 ## Quick start:
 
+### Clone the Repo
+```
+$ git clone https://github.com/alejandro-cartagena/TenziesGame.git
+````
+
+### Run the App
 ```
 $ npm install
 $ npm run dev
