@@ -10,5 +10,5 @@ their dice are the same number.
 
 ```
 $ npm install
-$ npm start
+$ npm run dev
 ````
